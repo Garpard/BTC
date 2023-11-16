@@ -4,3 +4,4 @@ Test3
 btc 4
 BTC5
 BTC6
+BTC7
